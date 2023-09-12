@@ -1,6 +1,6 @@
 # Baseball Salary Prediction
 
-This project develops a regression model to predict the annual salary of major league baseball players based on performance statistics. The analysis uses the Hitters dataset containing observations on 18 variables for players from the 1986 and 1987 MLB seasons.
+This project develops a regression model to predict the annual salary of major league baseball players based on performance statistics. The analysis uses the Hitters dataset taken from the ISLR package in R containing observations on 18 variables for players from the 1986 and 1987 MLB seasons.
 
 
 # The workflow includes:
