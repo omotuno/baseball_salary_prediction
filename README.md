@@ -1,6 +1,6 @@
 # Baseball Salary Prediction
 
-Explore the complete code and analysis for the Baseball Salary Prediction project [](). This project, developed in R Studio, delves into regression modeling for predicting annual salaries of major league baseball players using the Hitters dataset from the ISLR package. The dataset includes 18 variables for players from the 1986 and 1987 MLB seasons.
+Explore the complete code and analysis for the Baseball Salary Prediction project [here](https://github.com/omotuno/baseball_salary_prediction/blob/main/Sports-Analytics-A-case-study-in-baseball-Proposal.html). This project, developed in R Studio, delves into regression modeling for predicting annual salaries of major league baseball players using the Hitters dataset from the ISLR package. The dataset includes 18 variables for players from the 1986 and 1987 MLB seasons.
 
 
 # The workflow includes:
